@@ -1,5 +1,4 @@
-<h1>My Resume</h1>
-<h2>Hi There, I'm Dennis Tetstone</h2>
+<h1>Hi There, I'm Dennis Tetstone</h1>
 <h2>What I'm Studying</h2>
 <p>I am a student currently enrolled in a software engineering bootcamp through Quickstart. This is a list of some of the things I am learning.</p>
 <ul>
